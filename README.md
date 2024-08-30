@@ -16,6 +16,7 @@ OR CITY LIKE 'U%';
 <br>
 <br>
 Alternative:
+<br>
 SELECT DISTINCT CITY
 <br>
 FROM STATION
